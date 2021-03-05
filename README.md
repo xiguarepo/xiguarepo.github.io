@@ -1,2 +1,2 @@
 # xigua team repo
-Collection of cyr580's creations &amp; releases
+Collection of xigua's creations &amp; releases
