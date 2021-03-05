@@ -1,10 +1,16 @@
 Package: com.xiguarepo.xigua30
 Version: 1.0-1
-Section: FrontPage
-Depends: mobilesubstrate, firmware (>= 11.0), com.junesiphone.frontpage
 Architecture: iphoneos-arm
-Name: xigua30A
-Author: plplpmmmmh
 Maintainer: plplmmmmh cyr580 <cyr580@qq.com>
+Depends: mobilesubstrate, firmware (>= 11.0), com.junesiphone.frontpage
+Filename: ./debs/1.deb
+Size: 1560030
+MD5sum: ef12ba136c12906c512376f06ad06860
+SHA1: e2b9ea34da01537aa867c874c1b386921553dc66
+SHA256: a31359b8d9a98bbcdbb63ff35b02e167038cecfc980599f1de3a5749cb1cd9ed
+Section: FrontPage
 Description: pl制作fp主题
+Author: plplpmmmmh
 Depiction: https://xiguarepo.github.io/depictions/?p=com.xiguarepo.xigua30
+Name: xigua30A
+
