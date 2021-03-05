@@ -7,15 +7,18 @@
   "minOSVersion": "8.0",
   "maxOSVersion": "14.0",
   "otheriOS": "untested",
-  "description": "<div>Replace the '?' in package icon/thumbnails</div>",
+  "description": "<div>Apply with iThemer / Snowboard (with UI extension).<br><br>Installed to /Library/Themes<br><br><strong>Need help?</strong> Link to tutorials in my pinned tweet</div>",
   "changelog": {
-    "1.0": [
+    "1.1": [
       "测试"
     ],
-    "1.0-1": [
+    "1.0": [
       "初始发行"
     ]
   },
-  "screenshots": {},
+  "screenshots": {
+    "ss1.png": "",
+    "ss2.png": ""
+  },
   "links": {}
 }

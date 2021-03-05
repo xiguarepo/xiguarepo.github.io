@@ -166,9 +166,9 @@ $(document).ready(function () {
 
         var links = data.links;
         var extra = {
-            "<img class=\"icon\" src=\"icons/twitter.png\"><span>Find me on Twitter (@ev_ynw)</span>": "https://twitter.com/ev_ynw",
-            "<img class=\"icon\" src=\"icons/email.png\"><span>Send me an email</span>": "mailto:ev.ynam.w@gmail.com",
-            "<img class=\"icon\" src=\"icons/like.png\"><span>Buy me a &#x1F37A; via <span style=\"font-style:italic;font-weight:bold;\"><span style=\"color:#253b80;\">Pay</span><span style=\"color:#419bd7;\">Pal</strong></span></span>": "https://paypal.me/evynw"
+            "<img class=\"icon\" src=\"icons/twitter.png\"><span>关注我的推特</span>": "https://twitter.com/CNCYRCOM",
+            "<img class=\"icon\" src=\"icons/email.png\"><span>发送邮件</span>": "cyr580@qq.com",
+            "<img class=\"icon\" src=\"icons/like.png\"><span>暂未开通 &#x1F37A;  <span style=\"font-style:italic;font-weight:bold;\"><span style=\"color:#253b80;\">Pay</span><span style=\"color:#419bd7;\">Pal</strong></span></span>": "https://"
         };
         $.extend(links, extra);
         var lKeys = Object.keys(links);
