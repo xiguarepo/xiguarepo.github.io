@@ -6,7 +6,7 @@
   "dependency": "N/A",
   "minOSVersion": "8.0",
   "maxOSVersion": "14.4",
-  "otheriOS": "untested",
+  "otheriOS": "未经测试",
   "description": "<div>pl自制FrontPage主题，免费，请先安装junesiphone的FrontPage插件<br><br>june的源（下面复制）<br><br><strong>https://junesiphone.com/supersecret/</strong></div>",
   "changelog": {
     "1.0": [

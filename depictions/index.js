@@ -97,11 +97,11 @@ $(document).ready(function () {
             var result = "";
             var supported = isCurrentVersionSupported(currentVersion, data.minOSVersion, data.maxOSVersion);
             if (supported) {
-                result += "Your iOS version (" + currentVersion + ") is <strong>compatible</strong> &#x1f607;";
+                result += "你的iOS版本 (" + currentVersion + ") 可以 <strong>兼容</strong> &#x1f607;";
                 // $(".version-check").css("color", "green");
                 $(".panel-body.version-check").css("background-color", "#a6d841");
             } else{
-                result += "<strong>Not confirmed</strong> to work on your iOS version";
+                result += "<strong>不确定</strong> 在你的iOS版本工作";
                 result += (typeof currentVersion != 'undefined') ? " (" + currentVersion + ")" : "";
                 result += " &#x1F914;";
                 $(".panel-body.version-check").css("background-color", "#ffcc00");
