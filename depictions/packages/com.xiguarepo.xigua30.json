@@ -7,7 +7,7 @@
   "minOSVersion": "8.0",
   "maxOSVersion": "14.3",
   "otheriOS": "untested",
-  "description": "<div>Apply with iThemer / Snowboard (with UI extension).<br><br>Installed to /Library/Themes<br><br><strong>Need help?</strong> Link to tutorials in my pinned tweet</div>",
+  "description": "<div>pl自制FrontPage主题，免费，请先安装junesiphone的FrontPage插件<br><br>june的源（下面复制）<br><br><strong>https://junesiphone.com/supersecret/</strong></div>",
   "changelog": {
     "1.0": [
       "测试"
