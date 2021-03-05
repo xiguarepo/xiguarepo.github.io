@@ -15,3 +15,14 @@ Depiction: https://xiguarepo.github.io/depictions/?p=com.xiguarepo.xigua30
 Icon: https://xiguarepo.github.io/depictions/sectionIcons/fp.png
 Name: xigua30
 
+Package: com.xiguarepo.banana10.SB
+Version: 1.0
+Section: Themes
+Depends: mobilesubstrate, firmware (>= 11.0), com.junesiphone.frontpage
+Architecture: iphoneos-arm
+Name: banana10
+Author: plplpmmmmh
+Maintainer: plplmmmmh cyr580 <cyr580@qq.com>
+Description: pl制作fp主题
+Icon: https://xiguarepo.github.io/depictions/sectionIcons/fp.png
+Depiction: https://xiguarepo.github.io/depictions/?p=com.xiguarepo.banana10.SB
