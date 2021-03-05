@@ -153,7 +153,7 @@ $(document).ready(function () {
             panel.append(" <div class=\"panel-heading\" style=\"text-transform: uppercase; font-size:15px; font-weight:400; color: #6d6d72;\">" + version + "</div>");
             panel.append(" <div class=\"panel-body changelog-list\" style=\"padding:10px;\"></div>");
             if (version === latest) {
-                panel.find(".panel-heading").append(" <div class=\"label label-info badge-label latest-version\">Current</div>");
+                panel.find(".panel-heading").append(" <div class=\"label label-info badge-label latest-version\">当前版本</div>");
             }
             var changes = data.changelog[version];
             for (var i = 0; i < changes.length - 1; i++) {
