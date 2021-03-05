@@ -5,7 +5,7 @@
   "version": "1.0-1",
   "dependency": "N/A",
   "minOSVersion": "8.0",
-  "maxOSVersion": "14.0",
+  "maxOSVersion": "14.3",
   "otheriOS": "untested",
   "description": "<div>Apply with iThemer / Snowboard (with UI extension).<br><br>Installed to /Library/Themes<br><br><strong>Need help?</strong> Link to tutorials in my pinned tweet</div>",
   "changelog": {
@@ -17,8 +17,9 @@
     ]
   },
   "screenshots": {
-    "ss1.png": "",
-    "ss2.png": ""
+    "1.jpg": "",
+    "2.jpg": "",
+    "3.jpg": ""
   },
   "links": {}
 }
