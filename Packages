@@ -1,0 +1,10 @@
+Package: com.xiguarepo.xigua30
+Version: 1.0-1
+Section: FrontPage
+Depends: mobilesubstrate, firmware (>= 11.0), com.junesiphone.frontpage
+Architecture: iphoneos-arm
+Name: xigua30A
+Author: plplpmmmmh
+Maintainer: plplmmmmh cyr580 <cyr580@qq.com>
+Description: pl制作fp主题
+Depiction: https://xiguarepo.github.io/depictions/?p=com.xiguarepo.xigua30

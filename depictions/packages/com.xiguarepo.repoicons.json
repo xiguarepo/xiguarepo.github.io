@@ -1,0 +1,21 @@
+{
+  "name": "西瓜社区的源图标",
+  "package": "com.xiguarepo.repoicons",
+  "author": "cyr580 plplpmmmmh",
+  "version": "1.0-1",
+  "dependency": "N/A",
+  "minOSVersion": "8.0",
+  "maxOSVersion": "14.0",
+  "otheriOS": "untested",
+  "description": "<div>Replace the '?' in package icon/thumbnails</div>",
+  "changelog": {
+    "1.0": [
+      "测试"
+    ],
+    "1.0-1": [
+      "初始发行"
+    ]
+  },
+  "screenshots": {},
+  "links": {}
+}

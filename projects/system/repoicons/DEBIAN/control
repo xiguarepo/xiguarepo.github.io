@@ -1,9 +1,9 @@
-Package: com.evynw.repoicons
-Name: EVELYN's Repo Icons
-Version: 1.0
+Package: com.xiguarepo.repoicons
+Name: 西瓜社区的源图标
+Version: 1.0-1
 Architecture: iphoneos-arm
-Description: Official Icons for EVELYN's Repo. Icons replacing the ? marks.
-Depiction: https://evynw.github.io/depictions/?p=com.evynw.repoicons
-Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Author: Evelyn (ev_ynw)
+Description: 西瓜社区的源图标
+Depiction: https://xiguarepo.github.io/depictions/?p=com.xiguarepo.repoicons
+Maintainer: cyr580 <cyr580@qq.com>
+Author: cyr580 plplpmmmmh
 Section: System
