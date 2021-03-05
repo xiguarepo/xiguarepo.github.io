@@ -9,17 +9,17 @@
   "otheriOS": "untested",
   "description": "<div>Apply with iThemer / Snowboard (with UI extension).<br><br>Installed to /Library/Themes<br><br><strong>Need help?</strong> Link to tutorials in my pinned tweet</div>",
   "changelog": {
-    "1.1": [
+    "1.0": [
       "测试"
     ],
-    "1.0": [
+    "1.0-1": [
       "初始发行"
     ]
   },
   "screenshots": {
-    "1.jpg": "",
-    "2.jpg": "",
-    "3.jpg": ""
+    "1.jpeg": "",
+    "2.jpeg": "",
+    "3.jpeg": ""
   },
   "links": {}
 }
