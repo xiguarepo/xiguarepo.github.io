@@ -7,7 +7,7 @@
   "minOSVersion": "8.0",
   "maxOSVersion": "14.4",
   "otheriOS": "未经测试",
-  "description": "<div>西瓜美化小组自制的FrontPage主题<br><br>主题需要FrontPage载入 <br><br>FrontPage作者源：<br><br><strong>https://junesiphone.com/supersecret/</strong><br><br>小贴士：主题由很多动画组成<br><br>请无情的点按主题的任意图标或者空白处自行测试</div>",
+  "description": "<div>西瓜美化小组自制的FrontPage主题<br><br>主题需要FrontPage载入 <br><br>FrontPage作者源：<br><br><strong>https://junesiphone.com/supersecret/</strong><br><br>小贴士：<br><br> 1.主题由很多动画组成，请无情的点按主题的任意图标或者空白处自行测试<br><br> 2.头像路径为/var/mobile/Library/LockPlus，请复制一张正方形的png图片并重命名为avatarspecialforlpp.png上传到该处，所有的主题需要调用头像的地方都调用该图片<br><br> 3.如果播放时候的专辑封面无法显示，请安装作者源的LockPlusPro，该插件为FrontPage主题的制作插件，插件需要付费或者自己想办法解决<br><br> 4.如果主题的某些符号不正确请先安装源的字体扩展包，无法解决的话还需要把系统字体替换成换成原生字体或者安装其他的系统字体自行测试<br><br> 如果安装了LockPlusPro请忽略第2、3、4步，在LockPlusPro里面设置头像即可 </div>",
   "changelog": {
     "1.0": [
       "第一版"
