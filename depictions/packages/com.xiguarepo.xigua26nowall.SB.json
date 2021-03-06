@@ -1,0 +1,25 @@
+{
+  "name": "xigua26nowall.SB",
+  "package": "com.xiguarepo.xigua26nowall.SB",
+  "author": "cyr580 plplpmmmmh",
+  "version": "1.0-1",
+  "dependency": "N/A",
+  "minOSVersion": "8.0",
+  "maxOSVersion": "14.4",
+  "otheriOS": "未经测试",
+  "description": "<div>西瓜美化小组自制的FrontPage主题<br><br>主题需要FrontPage载入 <br><br>FrontPage作者源：<br><br><strong>https://junesiphone.com/supersecret/</strong><br><br>小贴士：<br><br> 1.主题由多个动画组成，请点按主题的任意图标或者空白处自行测试<br><br> 2.头像路径为/var/mobile/Library/LockPlus，请复制一张正方形的png图片并重命名为avatarspecialforlpp.png上传到该处，所有的主题需要调用头像的地方都调用该图片<br><br> 3.如果播放时候的专辑封面无法显示，请安装作者源的LockPlusPro，该插件为FrontPage主题的制作插件，插件需要付费或者自己想办法解决<br><br> 4.如果主题的某些符号不正确请先安装源的字体扩展包，无法解决的话还需要把系统字体替换成换成原生字体或者安装其他的系统字体自行测试<br><br> 如果装了LockPlusPro请忽略上述步骤在里面设置即可</div>",
+  "changelog": {
+    "1.0": [
+      "测试"
+    ],
+    "1.0-1": [
+      "初始发行"
+    ]
+  },
+  "screenshots": {
+    "1.jpeg": "",
+    "2.jpeg": "",
+    "3.jpeg": ""
+  },
+  "links": {}
+}
