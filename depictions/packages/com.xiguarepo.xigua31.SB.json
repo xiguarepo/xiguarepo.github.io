@@ -2,7 +2,7 @@
   "name": "xigua31.SB",
   "package": "com.xiguarepo.xigua31",
   "author": "cyr580 mocacocoa",
-  "version": "1.0",
+  "version": "1.0-1",
   "dependency": "N/A",
   "minOSVersion": "8.0",
   "maxOSVersion": "14.4",
@@ -11,6 +11,9 @@
   "changelog": {
     "1.0": [
       "专辑旋转特效，3页点击动画切换效果"
+    ],
+    "1.0-1": [
+      "更新切换动画，点击首页4个app上方，左侧为apps页，右侧为music页"
     ]
   },
   "screenshots": {
