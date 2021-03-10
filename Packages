@@ -355,6 +355,23 @@ Depiction: https://xiguarepo.github.io/depictions/?p=com.xiguarepo.xigua30
 Icon: https://xiguarepo.github.io/depictions/sectionIcons/fp.png
 Name: xigua30
 
+Package: com.xiguarepo.xigua31.SB
+Version: 1.0-2
+Architecture: iphoneos-arm
+Maintainer: plplmmmmh cyr580 <cyr580@qq.com>
+Depends: mobilesubstrate, firmware (>= 11.0), com.junesiphone.frontpage
+Filename: ./debs/com.xiguarepo.xigua31.SB_1.0-2_iphoneos-arm.deb
+Size: 340436
+MD5sum: 2da79c0a8c35670d9383c47f9d66db06
+SHA1: 1f358dc799e1be49244b9b9cc8aaf6b30d0d2233
+SHA256: 80c329508225bd8dfd5f552d8546287063d81d2d56f2351228adbc13bece8062
+Section: Themes
+Description: CNCYRCOM制作fp主题
+Author: cyr580
+Depiction: https://xiguarepo.github.io/depictions/?p=com.xiguarepo.xigua31.SB
+Icon: https://xiguarepo.github.io/depictions/sectionIcons/fp.png
+Name: xigua31.SB
+
 Package: com.xiguarepo.xigua6.SB
 Version: 1.0
 Architecture: iphoneos-arm
@@ -372,30 +389,3 @@ Depiction: https://xiguarepo.github.io/depictions/?p=com.xiguarepo.xigua6.SB
 Icon: https://xiguarepo.github.io/depictions/sectionIcons/fp.png
 Name: xigua6.SB
 
-Package: com.xiguarepo.xigua31.SB
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: plplmmmmh cyr580 <cyr580@qq.com>
-Depends: mobilesubstrate, firmware (>= 11.0), com.junesiphone.frontpage
-Filename: ./debs/com.xiguarepo.xigua31.SB_1.0_iphoneos-arm.deb
-Size: 
-Section: Themes
-Description: 村长制作fp主题
-Author: cyr580
-Depiction: https://xiguarepo.github.io/depictions/?p=com.xiguarepo.xigua31.SB
-Icon: https://xiguarepo.github.io/depictions/sectionIcons/fp.png
-Name: xigua31.SB
-
-Package: com.xiguarepo.xigua31.SB
-Version: 1.0-2
-Architecture: iphoneos-arm
-Maintainer: plplmmmmh cyr580 <cyr580@qq.com>
-Depends: mobilesubstrate, firmware (>= 11.0), com.junesiphone.frontpage
-Filename: ./debs/com.xiguarepo.xigua31.SB_1.0-2_iphoneos-arm.deb
-Size: 
-Section: Themes
-Description: 村长制作fp主题
-Author: cyr580
-Depiction: https://xiguarepo.github.io/depictions/?p=com.xiguarepo.xigua31.SB
-Icon: https://xiguarepo.github.io/depictions/sectionIcons/fp.png
-Name: xigua31.SB
