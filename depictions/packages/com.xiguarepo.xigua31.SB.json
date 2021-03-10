@@ -2,7 +2,7 @@
   "name": "xigua31.SB",
   "package": "com.xiguarepo.xigua31",
   "author": "cyr580 mocacocoa",
-  "version": "1.0-1",
+  "version": "1.0-2",
   "dependency": "N/A",
   "minOSVersion": "8.0",
   "maxOSVersion": "14.4",
@@ -15,6 +15,9 @@
     "1.0-1": [
       "更新切换动画，点击首页4个app上方，左侧为apps页，右侧为music页，通过主题目录名字，下不为例，抱歉"
     ]
+    "1.0-2": [
+      "修复专辑旋转动画"
+    ],
   },
   "screenshots": {
     "1.png": "",

@@ -387,11 +387,11 @@ Icon: https://xiguarepo.github.io/depictions/sectionIcons/fp.png
 Name: xigua31.SB
 
 Package: com.xiguarepo.xigua31.SB
-Version: 1.0-1
+Version: 1.0-2
 Architecture: iphoneos-arm
 Maintainer: plplmmmmh cyr580 <cyr580@qq.com>
 Depends: mobilesubstrate, firmware (>= 11.0), com.junesiphone.frontpage
-Filename: ./debs/com.xiguarepo.xigua31.SB_1.0-1_iphoneos-arm.deb
+Filename: ./debs/com.xiguarepo.xigua31.SB_1.0-2_iphoneos-arm.deb
 Size: 
 Section: Themes
 Description: 村长制作fp主题
