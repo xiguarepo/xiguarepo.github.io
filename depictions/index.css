@@ -15,8 +15,8 @@ body {
 .cssmarquee {
   position: relative;
   width: 100%;
-  height: 20px;
-  line-height: 20px;
+  height: 30px;
+  line-height: 30px;
   font-size: 13px;
   background-color: #a6d841;
   overflow: hidden;
