@@ -444,3 +444,17 @@ Maintainer: plplmmmmh cyr580 <cyr580@qq.com>
 Description: 注销动画
 Icon: https://xiguarepo.github.io/depictions/sectionIcons/fp.png
 Depiction: https://xiguarepo.github.io/depictions/?p=com.xiguarepo.NikeRespring
+
+Package: com.xiguarepo.PlanetRespring
+Version: 1.0-1
+Section: Themes
+Depends: mobilesubstrate, firmware (>= 11.0), com.spark.snowboard.respringextension, com.spark.snowboard
+Architecture: iphoneos-arm
+Name: PlanetRespring
+Filename: ./debs/com.xiguarepo.PlanetRespring_1.0-1_iphoneos-arm.deb
+Size: 
+Author: plplpmmmmh
+Maintainer: plplmmmmh cyr580 <cyr580@qq.com>
+Description: 注销动画
+Icon: https://xiguarepo.github.io/depictions/sectionIcons/fp.png
+Depiction: https://xiguarepo.github.io/depictions/?p=com.xiguarepo.PlanetRespring
