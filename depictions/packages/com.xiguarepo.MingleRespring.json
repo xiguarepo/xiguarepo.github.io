@@ -1,0 +1,20 @@
+{
+  "name": "MingleRespring",
+  "package": "com.xiguarepo.MingleRespring",
+  "author": "plplpmmmmh",
+  "version": "1.0",
+  "dependency": "N/A",
+  "minOSVersion": "8.0",
+  "maxOSVersion": "14.4",
+  "otheriOS": "未经测试",
+  "description": "<div>注销动画，需要snowboard及snowboard扩展插件</div>",
+  "changelog": {
+    "1.0": [
+      "素材来自网络，打包为注销动画"
+    ]
+  },
+  "screenshots": {
+    "1.gif": ""
+  },
+  "links": {}
+}

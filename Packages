@@ -403,3 +403,44 @@ Description: 注销动画
 Icon: https://xiguarepo.github.io/depictions/sectionIcons/fp.png
 Depiction: https://xiguarepo.github.io/depictions/?p=com.xiguarepo.PlanetRespring
 
+Package: com.xiguarepo.BlackholeRespring
+Version: 1.0
+Section: Themes
+Depends: mobilesubstrate, firmware (>= 11.0), com.spark.snowboard.respringextension, com.spark.snowboard
+Architecture: iphoneos-arm
+Name: BlackholeRespring
+Filename: ./debs/com.xiguarepo.BlackholeRespring_1.0_iphoneos-arm.deb
+Size: 
+Author: plplpmmmmh
+Maintainer: plplmmmmh cyr580 <cyr580@qq.com>
+Description: 注销动画
+Icon: https://xiguarepo.github.io/depictions/sectionIcons/fp.png
+Depiction: https://xiguarepo.github.io/depictions/?p=com.xiguarepo.BlackholeRespring
+
+Package: com.xiguarepo.MingleRespring
+Version: 1.0
+Section: Themes
+Depends: mobilesubstrate, firmware (>= 11.0), com.spark.snowboard.respringextension, com.spark.snowboard
+Architecture: iphoneos-arm
+Name: MingleRespring
+Filename: ./debs/com.xiguarepo.MingleRespring_1.0_iphoneos-arm.deb
+Size: 
+Author: plplpmmmmh
+Maintainer: plplmmmmh cyr580 <cyr580@qq.com>
+Description: 注销动画
+Icon: https://xiguarepo.github.io/depictions/sectionIcons/fp.png
+Depiction: https://xiguarepo.github.io/depictions/?p=com.xiguarepo.MingleRespring
+
+Package: com.xiguarepo.NikeRespring
+Version: 1.0
+Section: Themes
+Depends: mobilesubstrate, firmware (>= 11.0), com.spark.snowboard.respringextension, com.spark.snowboard
+Architecture: iphoneos-arm
+Name: NikeRespring
+Filename: ./debs/com.xiguarepo.NikeRespring_1.0_iphoneos-arm.deb
+Size: 
+Author: plplpmmmmh
+Maintainer: plplmmmmh cyr580 <cyr580@qq.com>
+Description: 注销动画
+Icon: https://xiguarepo.github.io/depictions/sectionIcons/fp.png
+Depiction: https://xiguarepo.github.io/depictions/?p=com.xiguarepo.NikeRespring
