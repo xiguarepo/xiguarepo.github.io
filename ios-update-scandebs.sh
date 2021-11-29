@@ -161,7 +161,7 @@ size=$(stat -c %s "$ws/Packages.gz")
 echo " $md5 $size Packages.gz" >> "$ws/.rel"
 echo >> "$ws/.rel"
 echo "Origin: xiguarepo" > "$ws/.rl"
-echo "Label: cyr580" >> "$ws/.rl"
+echo "Label: 西瓜中文社区" >> "$ws/.rl"
 echo "Suite: stable" >> "$ws/.rl"
 echo "Version: 1.0" >> "$ws/.rl"
 echo "Codename: cyr580" >> "$ws/.rl"

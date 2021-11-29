@@ -1,5 +1,5 @@
 Origin: xiguarepo
-Label: cyr580
+Label: 西瓜中文社区
 Suite: stable
 Version: 1.0
 Codename: cyr580
@@ -7,7 +7,7 @@ Architectures: iphoneos-arm
 Components: main
 Description: xiguarepo
 MD5Sum:
- bdcc7e19dbd2c833f2d0ff0fa9584cd0 6396 Packages
- fd9a610556951dce72f9c56225089514 1108 Packages.bz2
- a14e3bfd6a220282a975d62cba074f76 905 Packages.gz
+ 5cba055b399ac97bbbfb66d99c5f152f 15152 Packages
+ 9938df868edca30bb846cdf3f12825c5 1788 Packages.bz2
+ 1b2b8c55f059c869d0d06baa90f686e7 1642 Packages.gz
 

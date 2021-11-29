@@ -1,3 +1,183 @@
+Package: com.xiguarepo.banana10.SB
+Version: 1.0
+Section: Themes
+Filename: debs/com.xiguarepo.banana10.SB_1.0_iphoneos-arm.deb
+Size: 1566710
+MD5sum: f67ef23c08c0deea822d0d1c296acfd4
+Depends: mobilesubstrate, firmware (>= 11.0), com.junesiphone.frontpage
+Architecture: iphoneos-arm
+Name: banana10.SB
+Author: plplpmmmmh
+Maintainer: plplmmmmh cyr580 <cyr580@qq.com>
+Description: pl制作fp主题
+Icon: https://xiguarepo.github.io/depictions/sectionIcons/fp.png
+Depiction: https://xiguarepo.github.io/depictions/?p=com.xiguarepo.banana10.SB
+
+Package: com.xiguarepo.banana11.SB
+Version: 1.0
+Section: Themes
+Filename: debs/com.xiguarepo.banana11.SB_1.0_iphoneos-arm.deb
+Size: 1592986
+MD5sum: b2b73b95df91b8015ba34a58f7bd8636
+Depends: mobilesubstrate, firmware (>= 11.0), com.junesiphone.frontpage
+Architecture: iphoneos-arm
+Name: banana11.SB
+Author: plplpmmmmh
+Maintainer: plplmmmmh cyr580 <cyr580@qq.com>
+Description: pl制作fp主题
+Icon: https://xiguarepo.github.io/depictions/sectionIcons/fp.png
+Depiction: https://xiguarepo.github.io/depictions/?p=com.xiguarepo.banana11.SB
+
+Package: com.xiguarepo.banana12.SB
+Version: 1.0
+Section: Themes
+Filename: debs/com.xiguarepo.banana12.SB_1.0_iphoneos-arm.deb
+Size: 1638664
+MD5sum: 83df671b01eefd8d580aa3f09c205b26
+Depends: mobilesubstrate, firmware (>= 11.0), com.junesiphone.frontpage
+Architecture: iphoneos-arm
+Name: banana12.SB
+Author: plplpmmmmh
+Maintainer: plplmmmmh cyr580 <cyr580@qq.com>
+Description: pl制作fp主题
+Icon: https://xiguarepo.github.io/depictions/sectionIcons/fp.png
+Depiction: https://xiguarepo.github.io/depictions/?p=com.xiguarepo.banana12.SB
+
+Package: com.xiguarepo.banana13.SB
+Version: 1.0
+Section: Themes
+Filename: debs/com.xiguarepo.banana13.SB_1.0_iphoneos-arm.deb
+Size: 1567462
+MD5sum: 992b727de1d1071dd20a88d1065f6598
+Depends: mobilesubstrate, firmware (>= 11.0), com.junesiphone.frontpage
+Architecture: iphoneos-arm
+Name: banana13.SB
+Author: plplpmmmmh
+Maintainer: plplmmmmh cyr580 <cyr580@qq.com>
+Description: pl制作fp主题
+Icon: https://xiguarepo.github.io/depictions/sectionIcons/fp.png
+Depiction: https://xiguarepo.github.io/depictions/?p=com.xiguarepo.banana13.SB
+
+Package: com.xiguarepo.banana14.SB
+Version: 1.0
+Section: Themes
+Filename: debs/com.xiguarepo.banana14.SB_1.0_iphoneos-arm.deb
+Size: 1545258
+MD5sum: 7c6da7a293175f0e1feb9433d3d0ccb2
+Depends: mobilesubstrate, firmware (>= 11.0), com.junesiphone.frontpage
+Architecture: iphoneos-arm
+Name: banana14.SB
+Author: plplpmmmmh
+Maintainer: plplmmmmh cyr580 <cyr580@qq.com>
+Description: pl制作fp主题
+Icon: https://xiguarepo.github.io/depictions/sectionIcons/fp.png
+Depiction: https://xiguarepo.github.io/depictions/?p=com.xiguarepo.banana14.SB
+
+Package: com.xiguarepo.banana15.SB
+Version: 1.0
+Section: Themes
+Filename: debs/com.xiguarepo.banana15.SB_1.0_iphoneos-arm.deb
+Size: 1586454
+MD5sum: ac346fb043a5aa010cf918df11ef235c
+Depends: mobilesubstrate, firmware (>= 11.0), com.junesiphone.frontpage
+Architecture: iphoneos-arm
+Name: banana15.SB
+Author: plplpmmmmh
+Maintainer: plplmmmmh cyr580 <cyr580@qq.com>
+Description: pl制作fp主题
+Icon: https://xiguarepo.github.io/depictions/sectionIcons/fp.png
+Depiction: https://xiguarepo.github.io/depictions/?p=com.xiguarepo.banana15.SB
+
+Package: com.xiguarepo.banana17.SB
+Version: 1.0
+Section: Themes
+Filename: debs/com.xiguarepo.banana17.SB_1.0_iphoneos-arm.deb
+Size: 1630676
+MD5sum: cecb974da05382b297c185bf16ddd3f9
+Depends: mobilesubstrate, firmware (>= 11.0), com.junesiphone.frontpage
+Architecture: iphoneos-arm
+Name: banana17.SB
+Author: plplpmmmmh
+Maintainer: plplmmmmh cyr580 <cyr580@qq.com>
+Description: pl制作fp主题
+Icon: https://xiguarepo.github.io/depictions/sectionIcons/fp.png
+Depiction: https://xiguarepo.github.io/depictions/?p=com.xiguarepo.banana17.SB
+
+Package: com.xiguarepo.banana2.SB
+Version: 1.0
+Section: Themes
+Filename: debs/com.xiguarepo.banana2.SB_1.0_iphoneos-arm.deb
+Size: 1588342
+MD5sum: b4c0724479072e6c57567931ac30cd46
+Depends: mobilesubstrate, firmware (>= 11.0), com.junesiphone.frontpage
+Architecture: iphoneos-arm
+Name: banana2.SB
+Author: plplpmmmmh
+Maintainer: plplmmmmh cyr580 <cyr580@qq.com>
+Description: pl制作fp主题
+Icon: https://xiguarepo.github.io/depictions/sectionIcons/fp.png
+Depiction: https://xiguarepo.github.io/depictions/?p=com.xiguarepo.banana2.SB
+
+Package: com.xiguarepo.banana21.SB
+Version: 1.0
+Section: Themes
+Filename: debs/com.xiguarepo.banana21.SB_1.0_iphoneos-arm.deb
+Size: 1535820
+MD5sum: 8e2fa28211161ec0d88303c469a1d7f6
+Depends: mobilesubstrate, firmware (>= 11.0), com.junesiphone.frontpage
+Architecture: iphoneos-arm
+Name: banana21.SB
+Author: plplpmmmmh
+Maintainer: plplmmmmh cyr580 <cyr580@qq.com>
+Description: pl制作fp主题
+Icon: https://xiguarepo.github.io/depictions/sectionIcons/fp.png
+Depiction: https://xiguarepo.github.io/depictions/?p=com.xiguarepo.banana21.SB
+
+Package: com.xiguarepo.banana4.SB
+Version: 1.0
+Section: Themes
+Filename: debs/com.xiguarepo.banana4.SB_1.0_iphoneos-arm.deb
+Size: 1582726
+MD5sum: 2bad1ec5fb65e34ffa1bc725b8cf4381
+Depends: mobilesubstrate, firmware (>= 11.0), com.junesiphone.frontpage
+Architecture: iphoneos-arm
+Name: banana4.SB
+Author: plplpmmmmh
+Maintainer: plplmmmmh cyr580 <cyr580@qq.com>
+Description: pl制作fp主题
+Icon: https://xiguarepo.github.io/depictions/sectionIcons/fp.png
+Depiction: https://xiguarepo.github.io/depictions/?p=com.xiguarepo.banana4.SB
+
+Package: com.xiguarepo.banana5.SB
+Version: 1.0
+Section: Themes
+Filename: debs/com.xiguarepo.banana5.SB_1.0_iphoneos-arm.deb
+Size: 1564626
+MD5sum: ff2a52200e36cf10e4032a66a51203eb
+Depends: mobilesubstrate, firmware (>= 11.0), com.junesiphone.frontpage
+Architecture: iphoneos-arm
+Name: banana5.SB
+Author: plplpmmmmh
+Maintainer: plplmmmmh cyr580 <cyr580@qq.com>
+Description: pl制作fp主题
+Icon: https://xiguarepo.github.io/depictions/sectionIcons/fp.png
+Depiction: https://xiguarepo.github.io/depictions/?p=com.xiguarepo.banana5.SB
+
+Package: com.xiguarepo.banana6.SB
+Version: 1.0
+Section: Themes
+Filename: debs/com.xiguarepo.banana6.SB_1.0_iphoneos-arm.deb
+Size: 1580388
+MD5sum: da2c0baa282c48b6aa93d231281b05d0
+Depends: mobilesubstrate, firmware (>= 11.0), com.junesiphone.frontpage
+Architecture: iphoneos-arm
+Name: banana6.SB
+Author: plplpmmmmh
+Maintainer: plplmmmmh cyr580 <cyr580@qq.com>
+Description: pl制作fp主题
+Icon: https://xiguarepo.github.io/depictions/sectionIcons/fp.png
+Depiction: https://xiguarepo.github.io/depictions/?p=com.xiguarepo.banana6.SB
+
 Package: com.xiguarepo.banana8.SB
 Version: 1.0
 Section: Themes
@@ -27,6 +207,66 @@ Maintainer: plplmmmmh cyr580 <cyr580@qq.com>
 Description: pl制作fp主题
 Icon: https://xiguarepo.github.io/depictions/sectionIcons/fp.png
 Depiction: https://xiguarepo.github.io/depictions/?p=com.xiguarepo.banana9.SB
+
+Package: com.xiguarepo.BlackholeRespring
+Version: 1.0
+Section: Themes
+Filename: debs/com.xiguarepo.BlackholeRespring_1.0_iphoneos-arm.deb
+Size: 8539664
+MD5sum: 79dfd1d2325da3bc7f41e33b34b153ca
+Depends: mobilesubstrate, firmware (>= 11.0), com.spark.snowboard.respringextension, com.spark.snowboard
+Architecture: iphoneos-arm
+Name: BlackholeRespring
+Author: plplpmmmmh
+Maintainer: plplmmmmh cyr580 <cyr580@qq.com>
+Description: pl制作fp主题
+Icon: https://xiguarepo.github.io/depictions/sectionIcons/fp.png
+Depiction: https://xiguarepo.github.io/depictions/?p=com.xiguarepo.BlackholeRespring
+
+Package: com.xiguarepo.MingleRespring
+Version: 1.0
+Section: Themes
+Filename: debs/com.xiguarepo.MingleRespring_1.0_iphoneos-arm.deb
+Size: 1552922
+MD5sum: 74a8bd5903e88c575f66755918e97143
+Depends: mobilesubstrate, firmware (>= 11.0), com.spark.snowboard.respringextension, com.spark.snowboard
+Architecture: iphoneos-arm
+Name: MingleRespring
+Author: plplpmmmmh
+Maintainer: plplmmmmh cyr580 <cyr580@qq.com>
+Description: pl制作fp主题
+Icon: https://xiguarepo.github.io/depictions/sectionIcons/fp.png
+Depiction: https://xiguarepo.github.io/depictions/?p=com.xiguarepo.MingleRespring
+
+Package: com.xiguarepo.NikeRespring
+Version: 1.0
+Section: Themes
+Filename: debs/com.xiguarepo.NikeRespring_1.0_iphoneos-arm.deb
+Size: 1732188
+MD5sum: e4ff87e4ac90bd37dc60884713fdcf56
+Depends: mobilesubstrate, firmware (>= 11.0), com.spark.snowboard.respringextension, com.spark.snowboard
+Architecture: iphoneos-arm
+Name: NikeRespring
+Author: plplpmmmmh
+Maintainer: plplmmmmh cyr580 <cyr580@qq.com>
+Description: pl制作fp主题
+Icon: https://xiguarepo.github.io/depictions/sectionIcons/fp.png
+Depiction: https://xiguarepo.github.io/depictions/?p=com.xiguarepo.NikeRespring
+
+Package: com.xiguarepo.PlanetRespring
+Version: 1.0
+Section: Themes
+Filename: debs/com.xiguarepo.PlanetRespring_1.0_iphoneos-arm.deb
+Size: 8219846
+MD5sum: 834d45dceadedcc6b57f9b74e856e0ef
+Depends: mobilesubstrate, firmware (>= 11.0), com.spark.snowboard.respringextension, com.spark.snowboard
+Architecture: iphoneos-arm
+Name: PlanetRespring
+Author: plplpmmmmh
+Maintainer: plplmmmmh cyr580 <cyr580@qq.com>
+Description: pl制作fp主题
+Icon: https://xiguarepo.github.io/depictions/sectionIcons/fp.png
+Depiction: https://xiguarepo.github.io/depictions/?p=com.xiguarepo.banana4.SB
 
 Package: com.xiguarepo.xigua1.SB
 Version: 1.0
